@@ -1,0 +1,5 @@
+ https://chocolatey.org/packages/chocolatey
+- https://chocolatey.org/packages/python
+- https://chocolatey.org/packages/visualstudio2017-workload-vctools
+
+C:\ProgramData\chocolatey\logs\chocolatey.log
